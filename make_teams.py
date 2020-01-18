@@ -62,7 +62,7 @@ def build_battle_team(battle_team: list, pokemon_details, types) -> None:
                 build_battle_team(battle_team + [pokemon], pokemon_details, types)
     else:
         team_advantages = get_team_advantages(battle_team, pokemon_details, types)
-        if len(team_advantages) >= 15:
+        if len(team_advantages) == 18:
             logging.info("Successful combo!: {}".format(battle_team))
             with open('file.txt', 'a+') as outfile:
                 battle_team = {'battle_team': battle_team,
