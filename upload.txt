@@ -1,0 +1,114 @@
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Delibird", "Claydol", "Zamazenta"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Delibird", "Mudsdale", "Zamazenta"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Delibird", "Steelix", "Zamazenta"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Delibird", "Zamazenta", "Claydol"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Delibird", "Zamazenta", "Mudsdale"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Delibird", "Zamazenta", "Steelix"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Froslass", "Claydol", "Zamazenta"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Froslass", "Mudsdale", "Zamazenta"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Froslass", "Steelix", "Zamazenta"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Froslass", "Zamazenta", "Claydol"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Froslass", "Zamazenta", "Mudsdale"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Froslass", "Zamazenta", "Steelix"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Claydol", "Delibird", "Zamazenta"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Claydol", "Froslass", "Zamazenta"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Claydol", "Glaceon", "Zamazenta"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Claydol", "Mr. Rime", "Zamazenta"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Claydol", "Zamazenta", "Delibird"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Claydol", "Zamazenta", "Froslass"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Claydol", "Zamazenta", "Glaceon"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Claydol", "Zamazenta", "Mr. Rime"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Mudsdale", "Delibird", "Zamazenta"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Mudsdale", "Froslass", "Zamazenta"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Mudsdale", "Glaceon", "Zamazenta"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Mudsdale", "Mr. Rime", "Zamazenta"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Mudsdale", "Zamazenta", "Delibird"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Mudsdale", "Zamazenta", "Froslass"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Mudsdale", "Zamazenta", "Glaceon"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Mudsdale", "Zamazenta", "Mr. Rime"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Steelix", "Delibird", "Zamazenta"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Steelix", "Froslass", "Zamazenta"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Steelix", "Glaceon", "Zamazenta"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Steelix", "Mr. Rime", "Zamazenta"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Steelix", "Zamazenta", "Delibird"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Steelix", "Zamazenta", "Froslass"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Steelix", "Zamazenta", "Glaceon"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Steelix", "Zamazenta", "Mr. Rime"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Glaceon", "Claydol", "Zamazenta"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Glaceon", "Mudsdale", "Zamazenta"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Glaceon", "Steelix", "Zamazenta"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Glaceon", "Zamazenta", "Claydol"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Glaceon", "Zamazenta", "Mudsdale"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Glaceon", "Zamazenta", "Steelix"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Mr. Rime", "Claydol", "Zamazenta"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Mr. Rime", "Mudsdale", "Zamazenta"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Mr. Rime", "Steelix", "Zamazenta"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Mr. Rime", "Zamazenta", "Claydol"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Mr. Rime", "Zamazenta", "Mudsdale"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Mr. Rime", "Zamazenta", "Steelix"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Zamazenta", "Delibird", "Claydol"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Zamazenta", "Delibird", "Mudsdale"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Zamazenta", "Delibird", "Steelix"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Zamazenta", "Froslass", "Claydol"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Zamazenta", "Froslass", "Mudsdale"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Zamazenta", "Froslass", "Steelix"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Zamazenta", "Claydol", "Delibird"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Zamazenta", "Claydol", "Froslass"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Zamazenta", "Claydol", "Glaceon"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Zamazenta", "Claydol", "Mr. Rime"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Zamazenta", "Mudsdale", "Delibird"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Zamazenta", "Mudsdale", "Froslass"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Zamazenta", "Mudsdale", "Glaceon"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Zamazenta", "Mudsdale", "Mr. Rime"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Zamazenta", "Steelix", "Delibird"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Zamazenta", "Steelix", "Froslass"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Zamazenta", "Steelix", "Glaceon"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Zamazenta", "Steelix", "Mr. Rime"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Zamazenta", "Glaceon", "Claydol"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Zamazenta", "Glaceon", "Mudsdale"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Zamazenta", "Glaceon", "Steelix"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Zamazenta", "Mr. Rime", "Claydol"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Zamazenta", "Mr. Rime", "Mudsdale"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Tsareena", "Zamazenta", "Mr. Rime", "Steelix"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Bellossom", "Delibird", "Claydol", "Zamazenta"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Bellossom", "Delibird", "Mudsdale", "Zamazenta"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Bellossom", "Delibird", "Steelix", "Zamazenta"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Bellossom", "Delibird", "Zamazenta", "Claydol"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Bellossom", "Delibird", "Zamazenta", "Mudsdale"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Bellossom", "Delibird", "Zamazenta", "Steelix"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Bellossom", "Froslass", "Claydol", "Zamazenta"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Bellossom", "Froslass", "Mudsdale", "Zamazenta"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Bellossom", "Froslass", "Steelix", "Zamazenta"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Bellossom", "Froslass", "Zamazenta", "Claydol"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Bellossom", "Froslass", "Zamazenta", "Mudsdale"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Bellossom", "Froslass", "Zamazenta", "Steelix"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Bellossom", "Claydol", "Delibird", "Zamazenta"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Bellossom", "Claydol", "Froslass", "Zamazenta"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Bellossom", "Claydol", "Glaceon", "Zamazenta"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Bellossom", "Claydol", "Mr. Rime", "Zamazenta"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Bellossom", "Claydol", "Zamazenta", "Delibird"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Bellossom", "Claydol", "Zamazenta", "Froslass"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Bellossom", "Claydol", "Zamazenta", "Glaceon"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Bellossom", "Claydol", "Zamazenta", "Mr. Rime"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Bellossom", "Mudsdale", "Delibird", "Zamazenta"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Bellossom", "Mudsdale", "Froslass", "Zamazenta"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Bellossom", "Mudsdale", "Glaceon", "Zamazenta"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Bellossom", "Mudsdale", "Mr. Rime", "Zamazenta"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Bellossom", "Mudsdale", "Zamazenta", "Delibird"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Bellossom", "Mudsdale", "Zamazenta", "Froslass"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Bellossom", "Mudsdale", "Zamazenta", "Glaceon"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Bellossom", "Mudsdale", "Zamazenta", "Mr. Rime"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Bellossom", "Steelix", "Delibird", "Zamazenta"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Bellossom", "Steelix", "Froslass", "Zamazenta"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Bellossom", "Steelix", "Glaceon", "Zamazenta"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Bellossom", "Steelix", "Mr. Rime", "Zamazenta"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Bellossom", "Steelix", "Zamazenta", "Delibird"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Bellossom", "Steelix", "Zamazenta", "Froslass"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Bellossom", "Steelix", "Zamazenta", "Glaceon"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Bellossom", "Steelix", "Zamazenta", "Mr. Rime"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Bellossom", "Glaceon", "Claydol", "Zamazenta"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Bellossom", "Glaceon", "Mudsdale", "Zamazenta"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Bellossom", "Glaceon", "Steelix", "Zamazenta"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Bellossom", "Glaceon", "Zamazenta", "Claydol"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Bellossom", "Glaceon", "Zamazenta", "Mudsdale"]}
+{"num_advantages": 18, "battle_team": ["Corviknight", "Obstagoon", "Bellossom", "Glaceon", "Zamazenta", "Steelix"]}
